@@ -1,5 +1,5 @@
+### Hi there 👋
 <div align="center">
-   ### Hi there 👋
 
   📫 Contacts 📫
 
@@ -9,8 +9,14 @@
   [![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/plat_67/)](https://www.instagram.com/plat_67/)
   -->
 
+   
+   
+   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihee-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+   
+   
+   
   ![jihee-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihee-dev&count_private=true&show_icons=true&theme=onedark)
 
 </div>
