@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="mailto:jihee.dev@gmail.com" target="_blank"><img src="<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"></svg>&logoColor=#EA4335"/></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jihee.dev@gmail.com)](mailto:jihee.dev@gmail.com)
 
 ![jihee-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihee-dev&count_private=true&show_icons=true&theme=onedark)
 
