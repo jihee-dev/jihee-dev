@@ -1,6 +1,6 @@
 ### Hi there 👋
-<div align="center">
-# 📫 Contacts 📫
+<center>
+  # 📫 Contacts 📫
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jihee.dev@gmail.com)](mailto:jihee.dev@gmail.com)
   <!--
@@ -18,7 +18,7 @@
    
   ![jihee-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihee-dev&count_private=true&show_icons=true&theme=onedark)
 
-</div>
+</center>
 
 
 <!--
