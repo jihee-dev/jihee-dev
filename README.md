@@ -1,7 +1,7 @@
 ### Hi there 👋
-<center>
-  # 📫 Contacts 📫
 
+<H1 align="center">📫 Contacts 📫</H1>
+<center>
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jihee.dev@gmail.com)](mailto:jihee.dev@gmail.com)
   <!--
   [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006293478357)](https://www.facebook.com/profile.php?id=100006293478357)
