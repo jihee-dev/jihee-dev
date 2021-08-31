@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<H3 align="center">📫 Contacts 📫</H3>
+<H3 align="center">📫 Contacts 📫[![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=mailto:jihee.dev@gmail.com)](mailto:jihee.dev@gmail.com)</H3>
 
 
 <div align="center">
@@ -10,7 +10,7 @@
 </div>
 
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=mailto:jihee.dev@gmail.com)](mailto:jihee.dev@gmail.com)
+
   <!--
   [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006293478357)](https://www.facebook.com/profile.php?id=100006293478357)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/plat_67/)](https://www.instagram.com/plat_67/)
