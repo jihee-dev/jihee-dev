@@ -2,7 +2,14 @@
 
 <H3 align="center">📫 Contacts 📫</H3>
 
+
 <div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihee-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br><br>
+
+  ![jihee-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihee-dev&count_private=true&show_icons=true&theme=onedark)<br><br>
+</div>
+
+
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=mailto:jihee.dev@gmail.com)](mailto:jihee.dev@gmail.com)
   <!--
   [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006293478357)](https://www.facebook.com/profile.php?id=100006293478357)
@@ -12,13 +19,7 @@
    
    
    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihee-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 
-   
-   
-   
-  ![jihee-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihee-dev&count_private=true&show_icons=true&theme=onedark)<br><br>
-</div>
 
 
 
