@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![jihee-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihee-dev&show_icons=true&theme=radical)
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/jihee-dev"
+  width="600"
+  height="300"
+/>
+</a>
